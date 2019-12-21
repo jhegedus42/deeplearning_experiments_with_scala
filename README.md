@@ -1,1 +1,1 @@
-# deeplearning_experiments_with_scala
+# Deep Learning Experiments using Scala
